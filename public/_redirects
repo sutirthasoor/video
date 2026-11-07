@@ -1,0 +1,16 @@
+/admin            /admin.html   200
+/admin/*          /admin.html   200
+
+/albums           /index.html   200
+/albums/*         /index.html   200
+/watch/*          /index.html   200
+/cart             /index.html   200
+/checkout         /index.html   200
+/login            /index.html   200
+/account          /index.html   200
+/wallet           /index.html   200
+/orders           /index.html   200
+/invoice/*        /index.html   200
+/page/*           /index.html   200
+
+/*                /index.html   200
